@@ -1,11 +1,7 @@
 <template>
   <div id="app">
     <div id="nav">
-<<<<<<< HEAD
-      <router-link to="/">dev Hoom merge</router-link> |
-=======
       <router-link to="/">dev Hoom 999</router-link>
->>>>>>> 5a892c12ef4b657952bff14e64ced0d12922f3d3
       <router-link to="/about">dev About</router-link>
     </div>
     <router-view/>
