@@ -1,8 +1,8 @@
 <template>
   <div id="app">
     <div id="nav">
-      <router-link to="/">dev Hoom 33</router-link>
-      <router-link to="/about">dev About333</router-link>
+      <router-link to="/">dev Hoom 11</router-link>
+      <router-link to="/about">About</router-link>
     </div>
     <router-view/>
   </div>
