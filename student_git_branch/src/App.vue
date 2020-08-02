@@ -1,8 +1,8 @@
 <template>
   <div id="app">
     <div id="nav">
-      <router-link to="/">merge dev-master Hoom</router-link>
-      <router-link to="/about">merge dev-master About</router-link>
+      <router-link to="/">dev Hoom 999</router-link> |
+      <router-link to="/about">dev About</router-link>
     </div>
     <router-view/>
   </div>
